@@ -1,4 +1,4 @@
-alertjs
+alertify-lite
 
 A simple JavaScript popup alert manager.
 
