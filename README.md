@@ -3,7 +3,8 @@
 A simple JavaScript popup alert manager.
 error, success, warning and alert Messages.
 
-## Install
+## Install
+
 
 ```
 npm install alertify-lite
@@ -21,7 +22,8 @@ alertify('', '', `Welcome estebanrfp`, 'error', false, true)
 ```
 error, success, warning and alert Messages.
 
-## Credits
+
+## Credits
 
 [estebanrfp](https://github.com/estebanrfp)
 
