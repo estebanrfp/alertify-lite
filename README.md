@@ -11,16 +11,18 @@ npm install alertify-lite
 
 import alertify from 'alertify-lite
 
+<span id="pageMessages"></span>
+
 ```
 
 ## Usage
 
 ```js
+
 alertify('', '', `Welcome estebanrfp`, 'success', false, true)
 
-alertify('', '', `Welcome estebanrfp`, 'error', false, true)
 ```
-error, success, warning and alert Messages.
+danger, success, info, warning alert Messages.
 
 
 ## Credits
