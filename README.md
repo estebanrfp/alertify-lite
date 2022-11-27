@@ -9,7 +9,7 @@ error, success, warning and alert Messages.
 ```
 npm install alertify-lite
 
-import alertify from 'alertify-lite
+import alertify from 'alertify-lite'
 
 <span id="pageMessages"></span>
 
